@@ -651,12 +651,19 @@
     "cname": ["domains.tictail.com"],
     "Discussion": "",
     "Documentation": "",
-    "Fingerprint": [
-      "to target URL: <a href=\"https://tictail.com",
-      "Start selling on Tictail."
-    ],
+    "Fingerprint": "Start selling on Tictail.",
     "http_status": null,
     "Engine": "Tictail",
+    "Status": "Vulnerable",
+    "False_Positive": [""]
+  },
+  {
+    "cname": ["domains.tictail.com"],
+    "Discussion": "",
+    "Documentation": "",
+    "Fingerprint": "to target URL: <a href=\"https://tictail.com",
+    "http_status": null,
+    "Engine": "Tictail2",
     "Status": "Vulnerable",
     "False_Positive": [""]
   },
