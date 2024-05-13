@@ -1,4 +1,4 @@
-module github.com/topscoder/subzy
+module github.com/OmarE-G/subzy
 
 go 1.19
 
